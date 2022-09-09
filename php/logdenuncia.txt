@@ -1,0 +1,23 @@
+Thiago - INSERT INTO denuncias(tipodenuncia, localdenuncia, descricao, usuario_id) VALUES('Bueiro entupido ', 'hhhghffjdhdjdhdhfbc', 'trtfgfgdvbvbvbvcfcfcf', '2') - 18/06/2022 - 18:28:38
+Thiago - INSERT INTO denuncias(tipodenuncia, localdenuncia, descricao, usuario_id) VALUES('Bueiro entupido ', 'hhhghffjdhdjdhdhfbc', 'trtfgfgdvbvbvbvcfcfcf', '2') - 18/06/2022 - 18:50:59
+Maira - INSERT INTO denuncias(tipodenuncia, localdenuncia, descricao, usuario_id) VALUES('Bueiro entupido ', 'SDFHDFH', 'DFHDFS', '13') - 20/06/2022 - 10:25:15
+Paulo Jorge - INSERT INTO denuncias(tipodenuncia, localdenuncia, descricao, usuario_id) VALUES('Bueiro entupido ', 'jnkjkjkjb ', 'ghghcvghgh', '4') - 22/06/2022 - 13:46:02
+Thiago - INSERT INTO denuncias(tipodenuncia, localdenuncia, descricao, usuario_id) VALUES('Lixo Despejado de Forma Irregular ', 'asdffasd', 'wefwef', '1') - 22/06/2022 - 13:53:09
+Thiago - INSERT INTO denuncias(tipodenuncia, localdenuncia, descricao, usuario_id) VALUES('Focos de Incêndio ', 'sdfhh', 'dsdg', '1') - 22/06/2022 - 13:53:51
+Thiago - INSERT INTO denuncias(tipodenuncia, localdenuncia, descricao, usuario_id) VALUES(' ', 'zbfhsdggd', 'dgdfsdfs', '1') - 23/06/2022 - 13:58:23
+Thiago - INSERT INTO denuncias(tipodenuncia, localdenuncia, descricao, usuario_id) VALUES(' ', 'stsr', 'aewert', '1') - 23/06/2022 - 13:58:35
+Thiago - INSERT INTO denuncias(tipodenuncia, localdenuncia, descricao, usuario_id) VALUES('Bueiro entupido ', 'sdtfghgf', 'fhxdfs', '1') - 23/06/2022 - 14:02:04
+Paulo Jorge - INSERT INTO denuncias(tipodenuncia, localdenuncia, descricao, usuario_id) VALUES('Bueiro entupido ', 'ok8uh7tgr6frftghy', '´lijuhtg5ftgy7u', '4') - 29/06/2022 - 14:45:48
+Renato - INSERT INTO denuncias(tipodenuncia, localdenuncia, descricao, usuario_id) VALUES('Bueiro entupido ', 'cffffffffffffffffffff', 'fffffffffffffffffffffffffffffff', '2') - 29/06/2022 - 16:38:27
+Renato - INSERT INTO denuncias(tipodenuncia, localdenuncia, descricao, usuario_id) VALUES('Bueiro entupido ', 'wwwwwwwww', 'wwwwwwwwwwww', '2') - 21/07/2022 - 22:44:41
+Renato - INSERT INTO denuncias(tipodenuncia, localdenuncia, descricao, usuario_id) VALUES('Bueiro entupido ', 'Teste ', 'erererrerer', '2') - 21/07/2022 - 22:45:38
+Renato - INSERT INTO denuncias(tipodenuncia, localdenuncia, descricao, usuario_id) VALUES('Maus Tratos aos Animais ', 'Teste ', 'para ver se está funcionando2', '2') - 21/07/2022 - 22:49:00
+Renato - INSERT INTO denuncias(tipodenuncia, localdenuncia, descricao, usuario_id) VALUES('Possíveis Focos de Incêndio ', 'Teste 2', 'para ver se está funcionando 4', '2') - 21/07/2022 - 22:50:02
+Renato - INSERT INTO denuncias(tipodenuncia, localdenuncia, descricao, usuario_id) VALUES('Lixo Despejado de Forma Irregular ', 'Teste 4', 'para ver se está funcionando 4ioiiii', '2') - 21/07/2022 - 22:50:20
+Thiago - INSERT INTO denuncias(tipodenuncia, localdenuncia, descricao, usuario_id, status) VALUES('Lixo despejado de forma irregular ', 'drgdg', 'ddfgdfgdfgdfgdgdg', '1', 'Aguardando') - 02/08/2022 - 10:38:31
+Renato - INSERT INTO denuncias(tipodenuncia, localdenuncia, descricao, usuario_id, status) VALUES('Maus tratos aos animais ', 'saci', 'perere', '44', 'Aguardando') - 17/08/2022 - 17:53:16
+Renato - INSERT INTO denuncias(tipodenuncia, localdenuncia, descricao, usuario_id, status) VALUES('Possiveis focos de incendio ', 'BARRA DA TIJUCA', 'TAVA TRANQUILÃO E VI ESSE BGLH PEGANDO FOGO LKKKKKKKK', '44', 'Aguardando') - 18/08/2022 - 23:43:48
+Renato - INSERT INTO denuncias(tipodenuncia, localdenuncia, descricao, usuario_id, status) VALUES('Outros ', 'ghdfdf', 'dfgdfgdfg', '44', 'Aguardando') - 19/08/2022 - 14:31:42
+Renato - INSERT INTO denuncias(tipodenuncia, localdenuncia, descricao, usuario_id, status) VALUES('Bueiro entupido ', 'BARRA DA TIJUCA', 'Bueiro caiu no esgoto e começou a jorrar agua podre', '44', 'Aguardando') - 31/08/2022 - 01:43:08
+Renato - INSERT INTO denuncias(tipodenuncia, localdenuncia, descricao, usuario_id, status) VALUES('Possiveis focos de incendio ', 'Blbalblablalb', 'Aconteceu assim..', '2', 'Aguardando') - 31/08/2022 - 18:01:31
+Renato - INSERT INTO denuncias(tipodenuncia, localdenuncia, descricao, usuario_id, status) VALUES('Maus tratos aos animais ', 'tijuca', 'socorrro', '2', 'Aguardando') - 02/09/2022 - 01:03:30
